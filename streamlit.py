@@ -14,7 +14,7 @@ def load_prompt(file_path='prompts.txt'):
 
 def generate_website_content(prompt):
     # Call Gemini AI's API to generate website content
-    genai.configure(api_key=st.secrets("GEMINI_AI_API_KEY"))
+    genai.configure(api_key=st.secrets["GEMINI_AI_API_KEY"])
     model = genai.GenerativeModel('gemini-pro')
 
     response = model.generate_content(prompt)
