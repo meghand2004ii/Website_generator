@@ -1,0 +1,21 @@
+Including all necessary components and functionality. Give all the files and ensure the website is well-structured and follows best practices for scalability and maintainability. Give actual implementation codes 
+
+The website should include:
+
+Frontend:
+- Home page with features.
+- Four pages with features.
+- A navigation for easy browsing.
+- A responsive design for mobile devices.
+
+Backend:
+- A functioning backend whichever you feel will be appropriate for the frontend.
+
+File Structure:
+- Separate directories for frontend and backend.
+- Organized codebase with clear structure.
+- Configuration files for environment variables and API endpoints.
+- Asset directories for images, stylesheets, and scripts.
+- Documentation files with setup instructions and project overview.
+
+Return the complete code for all the files generated
